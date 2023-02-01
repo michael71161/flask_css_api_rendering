@@ -10,8 +10,8 @@
 *************************************************************
 
 ## stack :
- Flask 
- HTML&CSS 
+- Python ,Flask
+- HTML&CSS 
 *************************************************************
 
 - you might need to install flask and other modules to your localhost
