@@ -1,6 +1,7 @@
 # USING OF BLOG API WITH FLASK AND CSS
 ***********************************************************************************************************
 ### Styled blog website demo . Rendering and styleing  blog API json response using Flask
+- API URL: npoint.io 
 **************************************************************************************************************
 ## features:
 * Styled Blog website
